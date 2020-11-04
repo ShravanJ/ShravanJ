@@ -2,8 +2,7 @@
 
 I'm a Software Development Engineer at Charles Schwab
 
-- 🔭 I’m currently working on various .NET backend projects
-- 🌱 I’m currently learning about performance and scalability
+- 🔭 Currently working on various .NET backend projects
+- 🌱 Learning about performance and scalability
 - 💬 Ask me about .NET Core and Xamarin
-- 📫 How to reach me: shravan@shravanj.com
-
+- 📫 Want to get in touch? Shoot me an email: shravan@shravanj.com
