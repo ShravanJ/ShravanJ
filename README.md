@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Development Engineer at Charles Schwab
+I'm a Software Development Engineer at Charles Schwab in Austin, TX
 
 - 🔭 Currently working on various .NET backend projects
 - 🌱 Learning about performance and scalability
